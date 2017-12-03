@@ -1,0 +1,4 @@
+﻿  main.c
+d:\0各科作業\高階程式語言\homework\hw5\hw5-2\6.37\source\main.c(16): warning C4013: 'time' 未定義; 假設 extern 傳回整數
+  HW.vcxproj -> D:\0各科作業\高階程式語言\Homework\HW5\HW5-2\6.37\HW\Debug\HW.exe
+  HW.vcxproj -> D:\0各科作業\高階程式語言\Homework\HW5\HW5-2\6.37\HW\Debug\HW.pdb (Partial PDB)
